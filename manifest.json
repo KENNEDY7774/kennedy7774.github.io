@@ -1,15 +1,15 @@
 {
-  "name": "Gustave Business",
-  "short_name": "Gustave Business",
+  "name": "Gustave",
+  "short_name": "Gustave",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#22c55e",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "897228822_1833051881206820_32790215951055877_n.jpg",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/jpeg"
     }
   ]
 }
